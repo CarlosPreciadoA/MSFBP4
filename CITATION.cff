@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: practica 4 Sistema Endocrino
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Carlos Samuel
+    family-names: Preciado Amezquita
+    email: lc19211840@tijuana.tecnm.mx
+    affiliation: TecNM / IT Tijuana
+repository-code: 'https://github.com/CarlosPreciadoA/MSFBP4'
+keywords:
+  - Endocrine system
+  - Electrical analogy
+  - Transfer function
+  - PID controller
+  - Physiological modeling
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-11-18'
