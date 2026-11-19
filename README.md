@@ -10,7 +10,7 @@ El caso de estudio analiza un **modelo fenomenológico simplificado del sistema 
 **Institución:** Tecnológico Nacional de México / Instituto Tecnológico de Tijuana  
 **Asignatura:** Modelado de Sistemas Fisiológicos  
 **Programa:** Ingeniería Biomédica  
-**Estudiante:** Preciado Amezquita Carlos Samuel · Número de control: C19211840 · C19211840@tijuana.tecnm.mx  
+**Estudiante:** Preciado Amezquita Carlos Samuel · Número de control: C19211840 · lC19211840@tijuana.tecnm.mx  
 
 **Repositorio de la asignatura:** https://github.com/DrPaulValle/MSF-IBF1020  
 **Sede:** Blvd. Alberto Limón Padilla s/n, Tijuana, C. P. 22454, B. C., México.
