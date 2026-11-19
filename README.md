@@ -10,7 +10,7 @@ El caso de estudio analiza un **modelo fenomenológico simplificado del sistema 
 **Institución:** Tecnológico Nacional de México / Instituto Tecnológico de Tijuana  
 **Asignatura:** Modelado de Sistemas Fisiológicos  
 **Programa:** Ingeniería Biomédica  
-**Estudiante:** Rincón · Número de control: 22210795 · l22210795@tijuana.tecnm.mx  
+**Estudiante:** Preciado Amezquita Carlos Samuel · Número de control: C19211840 · C19211840@tijuana.tecnm.mx  
 
 **Repositorio de la asignatura:** https://github.com/DrPaulValle/MSF-IBF1020  
 **Sede:** Blvd. Alberto Limón Padilla s/n, Tijuana, C. P. 22454, B. C., México.
@@ -473,22 +473,6 @@ flowchart TD
 ---
 
 <a id="estructura"></a>
-## Estructura del repositorio
-
-```text
-.
-├── README.md                 # Reporte principal y documentación de la práctica
-├── LICENSE                   # Licencia de uso académico y distribución
-├── diagramabiologico.png     # Diagrama de correlación fisiológica (BioRender)
-├── Endocrino.slx             # Modelo en Simulink y Simscape Electrical
-├── escalon_matlab.pdf        # Gráfica de respuesta al escalón en MATLAB
-├── Figure_1.png              # Gráfica de simulación generada en Python
-├── Lab1.jpeg                 # Evidencia experimental en laboratorio (montaje/osciloscopio)
-├── Lab2.jpeg                 # Evidencia experimental en laboratorio (lazo cerrado)
-├── Rincon22210795.mlx        # Cuaderno computacional principal en MATLAB
-├── Rincon22210795.py         # Código fuente de simulación en Python
-└── simulinkmatlab.pdf        # Gráficas generadas desde Simulink y Simscape
-```
 
 [Volver al contenido](#contenido)
 
